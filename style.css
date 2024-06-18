@@ -27,4 +27,5 @@ h1{
 }
 .caixa-alternativas{
     width: 20px;
+    align-items: center;
 }
