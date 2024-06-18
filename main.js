@@ -9,40 +9,40 @@ const textoResultado = document.querySelector(".texto-resultado"); //constante t
 
 const perguntas = [ //abre uma lista de perguntas
     { //abre objeto de pergunta
-        enunciado: "Pergunta 1",
+        enunciado: "Entrada",
         alternativas: [
         { //alternativa 1
-            texto: "Sei que sei que lá",
+            texto: "Tábua de queijos",
             afirmacao: "Afirmação"
         },
         { //alternativa 2
-            texto: "Ah que não sei que sei que",
+            texto: "Canapés de salame",
             afirmacao: "Afirmação",
         },
     ]
     }, //fecha objeto de pergunta
     { //abre objeto de pergunta
-        enunciado: "Pergunta 2",
+        enunciado: "Prato Principal",
         alternativas: [
         {
-            texto: "Que não sei que sei que lá",
+            texto: "Carbonara",
             afirmacao: "Afirmação"
         },
         {
-            texto: "Sei lá sei que",
+            texto: "Lasanha",
             afirmacao: "Afirmação",
         },
     ]
     }, //fecha objeto de pergunta
     { //abre objeto de pergunta
-        enunciado: "Pergunta 3",
+        enunciado: "Sobremesa",
         alternativas: [
         {
-            texto: "Bla bla bla bla",
+            texto: "Torta",
             afirmacao: "Afirmação"
         },
         {
-            texto: "Endauldi agrummgit",
+            texto: "Banoffee",
             afirmacao: "Afirmação",
         },
     ]
