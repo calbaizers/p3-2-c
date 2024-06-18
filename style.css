@@ -22,3 +22,6 @@ body{ /*estilização no corpo da página*/
 h1{
     color: var(--cor-destaque);
 }
+.caixa-perguntas{
+    font-size: 35px;
+}
